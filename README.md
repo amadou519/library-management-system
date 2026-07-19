@@ -146,11 +146,6 @@ python manage.py runserver
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of the home page, admin dashboard, student profile, and issued books view here)*
-
----
 
 ## 🔒 Security Notes
 
